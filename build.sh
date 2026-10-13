@@ -1,0 +1,1 @@
+python3 src/main.py "/JP2308/Static-Site/"
